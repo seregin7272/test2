@@ -3,3 +3,7 @@ package main
 func a() {
 
 }
+
+func b() {
+
+}
