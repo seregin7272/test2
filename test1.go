@@ -1,5 +1,5 @@
 package main
 
-func qwq() {
-
+func qwq() int64 {
+	return 1
 }
